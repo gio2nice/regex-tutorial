@@ -58,4 +58,4 @@ Expression:
 
 ## Author
 
-This Regex Tutorial on matching a URL breakdown was created by Robertson Giovanni Rojas. Github: 
+This Regex Tutorial on matching a URL breakdown was created by Robertson Giovanni Rojas. Github: https://github.com/gio2nice/regex-tutorial
